@@ -53,8 +53,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  | **Done** |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | **Done** |  |
-| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  | **Done** |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | **Done** |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
