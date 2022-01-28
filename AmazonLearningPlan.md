@@ -70,7 +70,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | **DONE** |  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
+| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  **DONE** |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
