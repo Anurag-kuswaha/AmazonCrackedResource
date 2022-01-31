@@ -90,7 +90,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) | **Done** |  |
 | [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  | Lock |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Lock |  |
-| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
+| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |**DONE**  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
 | [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
 | [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
