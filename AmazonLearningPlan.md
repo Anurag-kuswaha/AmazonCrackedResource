@@ -88,8 +88,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |**DONE**  |  |
 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | **DONE** |  |
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) | **Done** |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  | Locked |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
+| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  | Lock |  |
+| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) | Lock |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
 | [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
