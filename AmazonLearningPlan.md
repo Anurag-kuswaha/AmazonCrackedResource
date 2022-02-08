@@ -104,7 +104,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
 | [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) | **DONE** |  |
-| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
+| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) | LOCK |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
