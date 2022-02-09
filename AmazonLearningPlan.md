@@ -107,7 +107,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) | LOCK |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  **DONE** |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | **DONE** |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | **DONE** |  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
