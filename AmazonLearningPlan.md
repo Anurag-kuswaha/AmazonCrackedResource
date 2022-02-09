@@ -69,7 +69,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |**DONE**  |  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | **DONE** |  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  | **Done** |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
+| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | Lock |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  **DONE** |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) | **DDone**  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) | **Done** |  |
