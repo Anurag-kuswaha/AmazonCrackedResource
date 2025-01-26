@@ -30,7 +30,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | DONE |  |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  | DONE |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) | DONE | |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | DONE  |  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | DONE |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | DONE |  |
